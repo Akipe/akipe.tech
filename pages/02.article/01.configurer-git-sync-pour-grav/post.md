@@ -1,6 +1,6 @@
 ---
 title: 'Configurer Git Sync pour Grav'
-published: false
+published: true
 date: '28-01-2018 18:42'
 publish_date: '28-01-2018 18:42'
 taxonomy:
