@@ -1,5 +1,18 @@
 ---
 title: 'À Propos'
+published: false
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    priceRange: $
 class: home
 profile: true
 ---
